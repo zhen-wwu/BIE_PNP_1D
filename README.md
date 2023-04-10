@@ -9,6 +9,9 @@ Weihua Geng (wgeng@smu.edu)
 
 Robert Krasny (krasny@umich.edu)
 
+# Compile and run
+After downloading and unzipping the current repository, navigate to the library directory and run a simple example directly.
+
 # License
 Copyright © 2019-2021, The Regents of the University of Michigan. Released under the MIT License.
 
