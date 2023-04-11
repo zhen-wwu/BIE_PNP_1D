@@ -5,12 +5,7 @@ Authors: Zhen Chao (zhench@umich.edu), Weihua Geng (wgeng@smu.edu), Robert Krasn
 
 # Compile and run
 After downloading and unzipping the current repository, navigate to the library directory where the following five Python codes are found.
-
-Electroneutral_Case_1.py
-Electroneutral_Case_2.py
-Electroneutral_Case_3.py
-Nonelectroneutral_Case_4.py
-KcsA_BIE.py
+Electroneutral_Case_1.py, Electroneutral_Case_2.py, Electroneutral_Case_3.py, Nonelectroneutral_Case_4.py, KcsA_BIE.py
 
 # License
 Copyright © 2019-2021, The Regents of the University of Michigan. Released under the MIT License.
